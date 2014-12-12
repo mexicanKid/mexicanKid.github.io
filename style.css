@@ -1,8 +1,11 @@
 
-h1{border style: dashed;
+h1{
+border-style: dashed;
+border-bottom-color: grey;
+border-top-color: grey; 
 border-bottom-width: 20px;
 background-color: red;
-text-align: justify;
+text-align: center;
 }
 
 
@@ -12,15 +15,16 @@ h2{
 	padding-left: 50px;
 }
 
-h3{	
+h3{
 	color: red;
 }
 
-footer{color: grey;
+footer{
+	color: grey;
 }
 
 p{ 
-margin: 15px;
-padding: 30px;
+	margin: 15px;
+	padding: 30px;
 }
 	

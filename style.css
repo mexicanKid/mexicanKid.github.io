@@ -3,8 +3,8 @@ h1{
 border-style: dashed;
 border-bottom-color: grey;
 border-top-color: grey; 
-border-bottom-width: 20px;
-background-color: red;
+border-bottom-width: 5px;
+background-color: light red;
 text-align: center;
 }
 

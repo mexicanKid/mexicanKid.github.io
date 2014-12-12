@@ -1,14 +1,13 @@
 
 h1{
-border-style: dashed;
-border-bottom-color: grey;
-border-top-color: grey; 
-border-bottom-width: 5px;
-border-left-color: red;
-border-right-color: red;
-background-color: light red; get hex
-
-text-align: center;
+	border-style: dashed;
+	border-bottom-color: grey;
+	border-top-color: grey; 
+	border-bottom-width: 5px;
+	border-left-color: red;
+	border-right-color: red;
+	background-color: #FFE5E5;
+	text-align: center;
 }
 
 

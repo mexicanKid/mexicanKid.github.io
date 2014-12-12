@@ -1,7 +1,25 @@
+
+h1{border style: dashed;
+border-bottom-width: 20px;
+background-color: red;
+}
+
+
+
 h2{
-	color: green;
+	color: blue;
+	padding-left: 50px;
 }
 
 h3{	
-	color: red
+	color: red;
 }
+
+footer{color: grey;
+}
+
+p{ 
+margin: 15px;
+padding: 30px;
+}
+	

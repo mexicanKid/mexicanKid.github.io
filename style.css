@@ -1,5 +1,6 @@
 nav {
-
+display: position-fixed;
+}
 nav ul {
 	list-style-type: inline;
 	padding: 0;

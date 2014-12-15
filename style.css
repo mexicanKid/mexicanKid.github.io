@@ -1,3 +1,4 @@
+nav {
 
 nav ul {
 	list-style-type: inline;
@@ -5,7 +6,10 @@ nav ul {
 	margin: 0;
 	
 	 }
-
+nav li{
+float: left;
+padding-left: 20px;
+}
 
 
 

@@ -1,12 +1,13 @@
 nav {
 background-color: grey;
 position: fixed;
-top:
+
 }
 nav ul {
 	list-style-type: inline;
 	padding: 0;
 	margin: 0;
+	text-decoration: none;
 	
 	 }
 nav li{

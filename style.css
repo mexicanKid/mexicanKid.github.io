@@ -1,6 +1,7 @@
 nav {
 background-color: grey;
 position: fixed;
+
 }
 nav ul {
 	list-style-type: inline;
@@ -13,6 +14,9 @@ float: left;
 padding-left: 20px;
 }
 
+nav a {
+text-decoration: none;
+}
 
 
 

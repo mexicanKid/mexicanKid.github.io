@@ -1,5 +1,5 @@
 nav {
-padding: 15px;
+padding: 10px;
 margin-bottom: 25px;
 background-color: grey;
 position: fixed;
@@ -15,7 +15,7 @@ nav ul {
 	
 	 }
 nav li{
-float: left;
+float: center;
 padding-left: 20px;
 }
 

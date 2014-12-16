@@ -17,7 +17,8 @@ nav ul {
 	 }
 nav li{
 float: left;
-
+padding-right: 10px;
+padding-left: 20px;
 }
 
 nav a {

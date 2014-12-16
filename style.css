@@ -1,6 +1,7 @@
 nav {
 padding: 10px;
-margin: 100px;
+margin-bottom: 25px;
+margin-right: 25px;
 background-color: grey;
 position: fixed;
 top:0;

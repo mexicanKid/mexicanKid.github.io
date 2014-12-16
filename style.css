@@ -26,7 +26,8 @@ text-decoration: none;
 
 
 h1{
-	margin: 25px;
+	padding: 15px;
+	margin: 25pxpx;
 	border-style: dotted;
 	border-right-style: solid;
 	border-left-style: solid;

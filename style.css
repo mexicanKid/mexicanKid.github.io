@@ -26,8 +26,8 @@ h1{
 	border-style: dotted;
 	border-right-style: solid;
 	border-left-style: solid;
-	border-bottom-color: grey;
-	border-top-color: grey; 
+	border-bottom-color: white;
+	border-top-color: white; 
 	border-bottom-width: 4px;
 	border-left-color: red;
 	border-right-color: red;
@@ -55,5 +55,6 @@ footer {
 p{ 
 	margin: 15px;
 	padding: 30px;
+	background-color: #FFE5E5;
 }
 	

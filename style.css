@@ -23,10 +23,12 @@ text-decoration: none;
 
 
 h1{
-	border-style: dashed;
+	border-style: dotted;
+	border-right-style: solid;
+	border-left-style: solid;
 	border-bottom-color: grey;
 	border-top-color: grey; 
-	border-bottom-width: 4pxpx;
+	border-bottom-width: 4px;
 	border-left-color: red;
 	border-right-color: red;
 	background-color: #FFE5E5;
@@ -45,7 +47,7 @@ h3{
 	color: red;
 }
 
-footer a{
+footer {
 	color: grey;
 	position: fixed;
 }

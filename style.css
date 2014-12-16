@@ -47,6 +47,7 @@ h3{
 
 footer{
 	color: grey;
+	position: fixed;
 }
 
 p{ 

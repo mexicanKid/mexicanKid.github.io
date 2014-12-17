@@ -5,7 +5,6 @@ margin-right: 25px;
 background-color: grey;
 position: fixed;
 border-radius: 7px;
-border-left-style: solid;
 top:0;
 left:0;
 padding-right: 10px;
@@ -46,7 +45,7 @@ h1{
 	border-left-color: red;
 	border-right-color: red;
 	background-color: #FF3333;
-	font-family: arial;
+	font-family: 'PT Sans', sans-serif;
 	text-align: center;
 }	
 
@@ -74,7 +73,7 @@ p{
 	margin-right: 50px;
 	padding: 25px;
 	background-color: #FFDBDB;
-	border-radius: 10px;
+	border-radius: 7px;
 }
 img{
 	margin-left: auto;

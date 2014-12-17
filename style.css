@@ -63,7 +63,8 @@ footer{
 }
 
 p{ 
-	margin: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
 	margin-left: 50px;
 	padding: 30px;
 	background-color: #FFDBDB;

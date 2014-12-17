@@ -6,8 +6,8 @@ background-color: grey;
 position: fixed;
 top:0;
 left:0;
-
 }
+
 nav ul {
 	list-style-type: inline;
 	padding: 0;
@@ -15,14 +15,15 @@ nav ul {
 	list-style-type: none;
 	
 	 }
+	 
 nav li{
-float: left;
-padding-right: 10px;
-padding-left: 20px;
+	float: left;
+	padding-right: 10px;
+	padding-left: 20px;
 }
 
 nav a {
-text-decoration: none;
+	text-decoration: none;
 }
 
 
@@ -54,7 +55,7 @@ h3{
 	color: red;
 }
 
-footer {
+footer{
 	color: grey;
 	margin: 25px;
 }

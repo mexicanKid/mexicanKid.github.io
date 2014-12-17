@@ -6,12 +6,8 @@ background-color: grey;
 position: fixed;
 top:0;
 left:0;
-<<<<<<< HEAD
 padding-right: 10px;
-padding-left: 20px;
-
-=======
->>>>>>> origin/master
+padding-left: 10px;
 }
 
 nav ul {
@@ -23,14 +19,10 @@ nav ul {
 }
 	 
 nav li{
-<<<<<<< HEAD
-float: left;
-
-=======
+	float: left;
 	float: left;
 	padding-right: 10px;
 	padding-left: 20px;
->>>>>>> origin/master
 }
 
 nav a {

@@ -54,7 +54,7 @@ h2{
 
 h3{
 	color: red;
-	margin: 50px;
+	margin-left: 50px;
 }
 
 footer{
@@ -64,6 +64,7 @@ footer{
 
 p{ 
 	margin: 30px;
+	margin-left: 50px;
 	padding: 30px;
 	background-color: #FFDBDB;
 }

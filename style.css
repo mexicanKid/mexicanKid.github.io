@@ -70,5 +70,6 @@ p{
 	background-color: #FFDBDB;
 }
 img{
-	float: middle;
+	margin-left: auto;
+	margin-right: auto;
 }	

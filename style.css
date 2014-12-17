@@ -6,24 +6,36 @@ background-color: grey;
 position: fixed;
 top:0;
 left:0;
+<<<<<<< HEAD
 padding-right: 10px;
 padding-left: 20px;
 
+=======
+>>>>>>> origin/master
 }
+
 nav ul {
 	list-style-type: inline;
 	padding: 0;
 	margin: 0;
 	list-style-type: none;
 	
-	 }
+}
+	 
 nav li{
+<<<<<<< HEAD
 float: left;
 
+=======
+	float: left;
+	padding-right: 10px;
+	padding-left: 20px;
+>>>>>>> origin/master
 }
 
 nav a {
-text-decoration: none;
+	text-decoration: none;
+	text-decoration: overline;
 }
 
 
@@ -53,16 +65,24 @@ h2{
 
 h3{
 	color: red;
+	margin-left: 50px;
 }
 
-footer {
+footer{
 	color: grey;
-	margin: 25px;
+	margin: 15px;
 }
 
 p{ 
-	margin: 15px;
-	padding: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 25px;
 	background-color: #FFDBDB;
 }
-	
+img{
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}	

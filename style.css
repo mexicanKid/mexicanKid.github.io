@@ -5,6 +5,7 @@ margin-right: 25px;
 background-color: grey;
 position: fixed;
 border-radius: 7px;
+border-left-style: solid;
 top:0;
 left:0;
 padding-right: 10px;
@@ -73,6 +74,7 @@ p{
 	margin-right: 50px;
 	padding: 25px;
 	background-color: #FFDBDB;
+	border-radius: 10px;
 }
 img{
 	margin-left: auto;

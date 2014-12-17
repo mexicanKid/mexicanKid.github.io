@@ -6,6 +6,8 @@ background-color: grey;
 position: fixed;
 top:0;
 left:0;
+padding-right: 10px;
+padding-left: 20px;
 
 }
 nav ul {
@@ -17,8 +19,7 @@ nav ul {
 	 }
 nav li{
 float: left;
-padding-right: 10px;
-padding-left: 20px;
+
 }
 
 nav a {

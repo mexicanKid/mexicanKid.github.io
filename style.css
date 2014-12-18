@@ -4,6 +4,7 @@ margin-bottom: 25px;
 margin-right: 25px;
 background-color: grey;
 position: fixed;
+display: block;
 border-radius: 7px;
 top:0;
 left:0;

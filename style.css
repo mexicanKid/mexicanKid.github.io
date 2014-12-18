@@ -45,7 +45,6 @@ h1{
 	border-left-color: red;
 	border-right-color: red;
 	background-color: #FF3333;
-	font-family: 'PT Sans', sans-serif;
 	font-family: 'Roboto Condensed', sans-serif;
 	text-align: center;
 }	
@@ -75,6 +74,7 @@ p{
 	padding: 25px;
 	background-color: #FFDBDB;
 	border-radius: 7px;
+	font-family: 'PT Sans', sans-serif;
 }
 img{
 	margin-left: auto;
